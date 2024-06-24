@@ -41,5 +41,5 @@ This project is just the beginning! I welcome contributions, feedback, and sugge
 
 ## Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address] 
+* **LinkedIn:** [www.linkedin.com/in/avdeep-singh]
+* **Email:** [avdeep2001@gmail.com] 
