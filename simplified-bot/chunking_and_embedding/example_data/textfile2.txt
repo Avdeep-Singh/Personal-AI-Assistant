@@ -1,0 +1,6 @@
+How they're created
+Machine learning models, especially generative AI models, create embeddings by identifying patterns in large datasets. 
+Where they're used
+Embeddings are used in applications across Google Cloud, including BigQuery, Cloud Database, Vertex AI Search, and Workspace. 
+
+You can use Vertex AI to create and use embeddings. Vertex AI offers a variety of embedding models, including text embedding models, fine-tuned text embedding models, and open-source embedding models.

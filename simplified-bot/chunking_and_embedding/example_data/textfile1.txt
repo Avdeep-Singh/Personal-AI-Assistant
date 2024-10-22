@@ -1,0 +1,7 @@
+In Google Cloud, embeddings are numerical representations of text, images, or videos that help machine learning models understand relationships in data: 
+
+How they work
+Embeddings are created by converting text, images, or videos into arrays of floating point numbers, called vectors. The distance between the vectors represents the similarity between the objects. 
+
+How they're used
+Machine learning models use embeddings to perform tasks like semantic search, classification, and recommendation. For example, Google uses embeddings to power applications like Google Search and music streaming recommendations. 
